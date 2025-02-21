@@ -13,3 +13,13 @@ React.js – Frontend framework
 Axios – For API requests
 Tailwind CSS – For styling
 Recipe API – Fetching recipe data
+
+📞 Contact Me
+
+Feel free to reach out to me via:
+
+Email    : neham.bba2023@ssism.org
+
+LinkedIn : www.linkedin.com/in/contact-neha-meena
+
+GitHub   : https://github.com/NehaMeena-debug
